@@ -18,5 +18,15 @@ public class RawModel {
 		return vertexCount;
 	}
 
+	public RawModel getRawModel() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Object getTexture() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 
 }
